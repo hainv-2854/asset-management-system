@@ -11,7 +11,7 @@ export const dataSourceOptions: DataSourceOptions = {
   host: 'localhost',
   port: 3306,
   username: 'root',
-  password: 'Vanhai2k263@',
+  password: 'password',
   database: 'asset_management',
   synchronize: false,
   entities: [Location, Organization, Device],
